@@ -1,2 +1,2 @@
 # fast-pay
-fast pay
+epay project
